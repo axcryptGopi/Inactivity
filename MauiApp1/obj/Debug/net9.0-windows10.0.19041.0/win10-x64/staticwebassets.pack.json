@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiApp1\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiApp1.styles.css",
+      "Id": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiApp1.styles.css",
       "PackagePath": "staticwebassets\\MauiApp1.styles.css"
     },
     {
-      "Id": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiApp1\\wwwroot\\css\\app.css",
+      "Id": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiApp1\\wwwroot\\index.html",
+      "Id": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

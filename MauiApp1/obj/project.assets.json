@@ -34081,11 +34081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "projectUniqueName": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiApp1.csproj",
       "projectName": "MauiApp1",
-      "projectPath": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "projectPath": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiApp1.csproj",
       "packagesPath": "C:\\Users\\Gopinath\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiApp1\\obj\\",
+      "outputPath": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
