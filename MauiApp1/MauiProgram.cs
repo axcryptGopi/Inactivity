@@ -1,7 +1,9 @@
 ﻿using MauiApp1.Services;
 using Microsoft.Extensions.Logging;
 
-#if MACCATALYST
+#if WINDOWS
+using MauiApp1.Platforms.Windows.Services;
+#elif MACCATALYST
 using MauiApp1.Platforms.MacCatalyst.Services;
 #endif
 
@@ -22,9 +24,15 @@ namespace MauiApp1
             builder.Services.AddMauiBlazorWebView();
 
 
-#if MACCATALYST
+
+#if WINDOWS
             builder.Services.AddSingleton<IScreenLockDetector, ScreenLockDetector>();
+            ScreenDetector.Detector = new MauiApp1.Platforms.Windows.Services.ScreenLockDetector();
+#elif MACCATALYST
+            builder.Services.AddSingleton<IScreenLockDetector, ScreenLockDetector>();
+            ScreenDetector.Detector = new MauiApp1.Platforms.MacCatalyst.Services.ScreenLockDetector();
 #endif
+
 #if DEBUG
             builder.Services.AddBlazorWebViewDeveloperTools();
     		builder.Logging.AddDebug();

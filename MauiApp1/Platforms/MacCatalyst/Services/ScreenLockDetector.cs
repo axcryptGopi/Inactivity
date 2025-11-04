@@ -16,6 +16,7 @@ namespace MauiApp1.Platforms.MacCatalyst.Services
 
         public ScreenLockDetector()
         {
+            ScreenDetector.Detector = this;
             LockDetector.ScreenLocked += LockDetector_ScreenLocked;
             LockDetector.ScreenUnlocked += LockDetector_ScreenUnlocked;
         }

@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Learning\\MAUI\\Inactivity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|d:\\learning\\maui\\inactivity\\mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|d:\\learning\\maui\\inactivity\\mauiapp1\\platforms\\windows\\screenlockdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\windows\\screenlockdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|d:\\learning\\maui\\inactivity\\mauiapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|d:\\learning\\maui\\inactivity\\mauiapp1\\platforms\\maccatalyst\\services\\screenlockdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\maccatalyst\\services\\screenlockdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|d:\\learning\\maui\\inactivity\\mauiapp1\\services\\screendetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\services\\screendetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|d:\\learning\\maui\\inactivity\\mauiapp1\\services\\iscreenlockdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\services\\iscreenlockdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|d:\\learning\\maui\\inactivity\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|d:\\learning\\maui\\inactivity\\mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C18F3A5-DB2E-47A7-BFF9-A7D07B37FB1F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +63,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ScreenLockDetector.cs",
+              "DocumentMoniker": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\Platforms\\Windows\\ScreenLockDetector.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\Windows\\ScreenLockDetector.cs",
+              "ToolTip": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\Platforms\\Windows\\ScreenLockDetector.cs",
+              "RelativeToolTip": "MauiApp1\\Platforms\\Windows\\ScreenLockDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:05:32.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScreenDetector.cs",
+              "DocumentMoniker": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\Services\\ScreenDetector.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Services\\ScreenDetector.cs",
+              "ToolTip": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\Services\\ScreenDetector.cs",
+              "RelativeToolTip": "MauiApp1\\Services\\ScreenDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:04:34.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IScreenLockDetector.cs",
+              "DocumentMoniker": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\Services\\IScreenLockDetector.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Services\\IScreenLockDetector.cs",
+              "ToolTip": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\Services\\IScreenLockDetector.cs",
+              "RelativeToolTip": "MauiApp1\\Services\\IScreenLockDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:04:11.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml",
+              "ToolTip": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MainPage.xaml",
+              "RelativeToolTip": "MauiApp1\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T11:02:08.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiApp1\\MauiProgram.cs",
               "ToolTip": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\MauiProgram.cs",
               "RelativeToolTip": "MauiApp1\\MauiProgram.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T10:24:35.095Z",
+              "WhenOpened": "2025-11-04T10:52:18.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScreenLockDetector.cs",
+              "DocumentMoniker": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\Platforms\\MacCatalyst\\Services\\ScreenLockDetector.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\MacCatalyst\\Services\\ScreenLockDetector.cs",
+              "ToolTip": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\Platforms\\MacCatalyst\\Services\\ScreenLockDetector.cs",
+              "RelativeToolTip": "MauiApp1\\Platforms\\MacCatalyst\\Services\\ScreenLockDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:51:36.039Z",
               "EditorCaption": ""
             },
             {
@@ -61,9 +146,9 @@
               "RelativeDocumentMoniker": "MauiApp1\\Components\\Pages\\Home.razor",
               "ToolTip": "D:\\Learning\\MAUI\\Inactivity\\MauiApp1\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "MauiApp1\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-04T10:22:11.198Z",
+              "WhenOpened": "2025-11-04T10:50:45.34Z",
               "EditorCaption": ""
             }
           ]
