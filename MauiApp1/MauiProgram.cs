@@ -1,4 +1,9 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using MauiApp1.Services;
+using Microsoft.Extensions.Logging;
+
+#if MACCATALYST
+using MauiApp1.Platforms.MacCatalyst.Services;
+#endif
 
 namespace MauiApp1
 {
@@ -16,8 +21,12 @@ namespace MauiApp1
 
             builder.Services.AddMauiBlazorWebView();
 
+
+#if MACCATALYST
+            builder.Services.AddSingleton<IScreenLockDetector, ScreenLockDetector>();
+#endif
 #if DEBUG
-    		builder.Services.AddBlazorWebViewDeveloperTools();
+            builder.Services.AddBlazorWebViewDeveloperTools();
     		builder.Logging.AddDebug();
 #endif
 

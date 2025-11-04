@@ -1,5 +1,13 @@
 ﻿@page "/"
+@using MauiApp1.Services
+@inject IScreenLockDetector screenLockDetector;
+
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+
+@code {
+    List<String> screenLockLog = new List<String>();
+
+}

@@ -97,7 +97,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>5481</FileLength>
-      <LastWriteTime>Tue, 04 Nov 2025 06:28:25 GMT</LastWriteTime>
+      <LastWriteTime>Tue, 04 Nov 2025 10:25:03 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MauiApp1.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
